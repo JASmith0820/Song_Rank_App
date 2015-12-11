@@ -1,6 +1,6 @@
 # Song_Rank_App
-Descriptive and Predictive Analysis of Internet Rankings of Popular Music
-Andrew Nichols, Jessica Smith, and Yahui Zhou
+Descriptive and Predictive Analysis of Internet Rankings of Popular Music  
+Authors: Andrew Nichols, Jessica Smith, and Yahui Zhou
 
 Please read our write-up entitled GroupReportDNSC6211_Group6.pdf to see our project workflow and conclusions. The raw LaTeX version of the file can be found in the folder entitled GroupReportDNSC6211_Latex_files. 
 
