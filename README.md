@@ -1,7 +1,7 @@
 # Song_Rank_App
 Descriptive and Predictive Analysis of Internet Rankings of Popular Music
 
-Please read our write-up entitled GroupReportDNSC6211_Group6.pdf to see our project workflow and conclusions. The raw latex version of the file can be found in the folder entitled GroupReportDNSC6211_Latex_files. 
+Please read our write-up entitled GroupReportDNSC6211_Group6.pdf to see our project workflow and conclusions. The raw LaTeX version of the file can be found in the folder entitled GroupReportDNSC6211_Latex_files. 
 
 You can view our published R Shiny application at https://jasmith0820.shinyapps.io/Song_Rank_App
 
